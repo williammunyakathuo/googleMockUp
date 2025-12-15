@@ -1,7 +1,12 @@
-input{
+.main{
+    margin-top: 0px;
+}
+.search{
     width: 400px;
+    display: block;
 }
 
-img{
+.logo{
     width: 300px;
+    display: block;
 }
